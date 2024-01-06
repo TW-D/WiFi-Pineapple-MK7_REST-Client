@@ -17,7 +17,7 @@
 > __Requires__::    Ruby >= 2.7.0p0 and Pineapple Mark VII >= 2.1.0-stable
 >  
 >
-> __Installation (Debian, Ubuntu, Raspbian)__::
+> __Installation (Debian-Based Linux Distributions)__::
 >
 > * sudo apt-get install build-essential curl g++ ruby ruby-dev
 >
