@@ -8,7 +8,7 @@
 >
 > __Version__::     1.3.7
 >
-> __Copyright__::   Copyright (c) 2022 TW-D
+> __Copyright__::   Copyright (c) 2024 TW-D
 >
 > __License__::     Distributes under the same terms as Ruby
 >
