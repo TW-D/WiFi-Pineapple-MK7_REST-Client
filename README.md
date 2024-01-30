@@ -1,4 +1,4 @@
-# WIFI PINEAPPLE MARK VII REST CLIENT
+# WIFI PINEAPPLE MARK VII - REST CLIENT
 
 - The leading rogue access point and WiFi pentest toolkit for close access operations.
 - Passive and active attacks analyze vulnerable and misconfigured devices. 
