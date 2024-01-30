@@ -27,7 +27,7 @@
 
 Library allowing the automation of active or passive attack operations.
 
-__Note :__ *"Issues" and "Pull Request" are welcome.*
+__Note :__ *"Issues" and "Pull Requests" are welcome.*
 
 ## Payloads
 
